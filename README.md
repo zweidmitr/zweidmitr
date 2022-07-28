@@ -1,4 +1,13 @@
-### Hi there 👋
+### Привет, меня зовут Дмитрий 👋
+
+Проекты:
+
+ 1. [Web-приложение "Приватный форум"](https://github.com/zweidmitr/job4j_forum/) (Maven, Spring Boot, PostgresSQL, Spring Data)
+ 2. [Web-приложение "Площадка для продажи авто"](https://github.com/zweidmitr/job4j_cars/) (Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, Hibernate)
+ 3. [Web-приложение "Todo List"](https://github.com/zweidmitr/job4j_todo) (Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, Hibernate)
+ 4. [Web-приложение "Автонарушители"](https://github.com/zweidmitr/job4j_car_accident) (Maven, Spring boot,JSP, Spring Secutity,PostgreSQL, Hibernate)
+ 5. [REST API приложение "Чат с комнатами"](https://github.com/zweidmitr/job4j_chat) (Spring Boot, Spring Data JPA, Spring Security, PostgresSQL)
+
 
 <!--
 **zweidmitr/zweidmitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
