@@ -11,10 +11,12 @@
  3. [Web-приложение "Todo List"](https://github.com/zweidmitr/job4j_todo) (Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, Hibernate)
  
  Дополнительные:
+ 
  4. [Web-приложение "Автонарушители"](https://github.com/zweidmitr/job4j_car_accident) (Maven, Spring boot,JSP, Spring Secutity,PostgreSQL, Hibernate)
  5. [REST API приложение "Чат с комнатами"](https://github.com/zweidmitr/job4j_chat) (Spring Boot, Spring Data JPA, Spring Security, PostgresSQL)
  
  В процессе:
+ 
  6. [platformet](https://github.com/zweidmitr/platformer)  - аркадный платформер
 
 Английский A2 (чтение документации, речь - базовые конструкции)
