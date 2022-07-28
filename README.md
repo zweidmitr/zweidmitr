@@ -1,12 +1,22 @@
 ### Привет, меня зовут Дмитрий 👋
 
-Проекты:
+Навыки: JAVA, SPRING, HIBERNATE, JDBS, POSTGRES, HTTP.Servlets
+
+Доп: Maven, Gradle, JUnit(4/5), Groovy (синтакис для Gradle)
+
+Мои основные проекты:
 
  1. [Web-приложение "Приватный форум"](https://github.com/zweidmitr/job4j_forum/) (Maven, Spring Boot, PostgresSQL, Spring Data)
  2. [Web-приложение "Площадка для продажи авто"](https://github.com/zweidmitr/job4j_cars/) (Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, Hibernate)
  3. [Web-приложение "Todo List"](https://github.com/zweidmitr/job4j_todo) (Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, Hibernate)
  4. [Web-приложение "Автонарушители"](https://github.com/zweidmitr/job4j_car_accident) (Maven, Spring boot,JSP, Spring Secutity,PostgreSQL, Hibernate)
  5. [REST API приложение "Чат с комнатами"](https://github.com/zweidmitr/job4j_chat) (Spring Boot, Spring Data JPA, Spring Security, PostgresSQL)
+
+Учил Java на [Job4j](https://job4j.ru/), Udemy, Youtube, книги
+
+Английский A2 (чтение документации, речь - базовые конструкции)
+
+Немецкий A1 (было B2/С1, лет 10 назад)
 
 
 <!--
