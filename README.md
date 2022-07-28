@@ -17,7 +17,7 @@
  
  В процессе:
  
- 6. [platformet](https://github.com/zweidmitr/platformer)  - аркадный платформер
+ 6. [platformer](https://github.com/zweidmitr/platformer)  - аркадный платформер
 
 Английский A2 (чтение документации, речь - базовые конструкции)
 
