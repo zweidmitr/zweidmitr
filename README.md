@@ -17,7 +17,7 @@
  
  В процессе:
  
- 6. [99 проектов javaScript - изучаю для приятной визуализации проектов] (https://github.com/zweidmitr/projectsDays) 
+ 6. [99 проектов javaScript - изучаю для приятной визуализации проектов](https://github.com/zweidmitr/projectsDays) 
  7. [platformer](https://github.com/zweidmitr/platformer)  - аркадный платформер
 
 Английский A2 (чтение документации, речь - базовые конструкции)
