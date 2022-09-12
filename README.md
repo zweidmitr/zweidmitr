@@ -24,6 +24,15 @@
 Немецкий A1 (было B2/С1, лет 10 назад)
 
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/zweidmitr">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zweidmitr&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zweidmitr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+
 <!--
 **zweidmitr/zweidmitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
