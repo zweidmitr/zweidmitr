@@ -17,7 +17,9 @@
  В процессе:
  
  5. [99 vanillaProjects javaScript](https://github.com/zweidmitr/projectsDays)   - для приятной визуализации проектов
- 6. [platformer](https://github.com/zweidmitr/platformer)  - аркадный платформер на Java
+ 6. [omnifood](https://github.com/zweidmitr/omnifood) - учебный проект Websites with HTML and CSS (Jonas Schmedtmann)
+ 7. [codewars](https://github.com/zweidmitr/cw) решение задачик на JS
+ 8. [The Complete JavaScript Course](https://github.com/zweidmitr/complete_js) The Complete JavaScript Course 2022: From Zero to Expert! (Jonas Schmedtmann)
 
 Английский A2 (чтение документации, речь - базовые конструкции)
 
