@@ -4,8 +4,9 @@
 
 Доп: Maven, Gradle, JUnit(4/5), Groovy (синтакис для Gradle)
 
-Мои основные проекты на JAVASCRIPT :
- 1. [omnifood](https://github.com/zweidmitr/omnifood) - Websites with HTML and CSS (Jonas Schmedtmann)
+Мои проекты на JAVASCRIPT :
+ 1. [natours](https://github.com/zweidmitr/Natours) - Advanced CSS and Sass: Flexbox, Grid, Animations and More! (Jonas Schmedtmann)
+ 2. [omnifood](https://github.com/zweidmitr/omnifood) - Websites with HTML and CSS (Jonas Schmedtmann)
 
 
 Мои старые проекты на  JAVA:
