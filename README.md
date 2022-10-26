@@ -4,11 +4,11 @@
 
 Доп: Maven, Gradle, JUnit(4/5), Groovy (синтакис для Gradle)
 
-Мои основные HTML CSS JAVASCRIPT проекты:
+Мои основные проекты на JAVASCRIPT :
  1. [omnifood](https://github.com/zweidmitr/omnifood) - Websites with HTML and CSS (Jonas Schmedtmann)
 
 
-Мои первые JAVA проекты:
+Мои старые проекты на  JAVA:
  1. [Web-приложение "Площадка для продажи авто"](https://github.com/zweidmitr/job4j_cars/) (Maven, Spring boot, Thymeleaf, Bootstrap, HTML, PostgreSQL, Hibernate)
  2. [Web-приложение "Приватный форум"](https://github.com/zweidmitr/job4j_forum/) (Maven, Spring Boot, PostgresSQL, Spring Data)
  3. [Web-приложение "Автонарушители"](https://github.com/zweidmitr/job4j_car_accident) (Maven, Spring boot,JSP, Spring Secutity,PostgreSQL, Hibernate)
